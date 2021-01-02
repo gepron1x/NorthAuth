@@ -1,0 +1,4 @@
+name: SouthSideAuth
+version: ${project.version}
+main: me.gepron1x.southsideauth.SouthSideAuth
+description: open-source minecraft auth system.

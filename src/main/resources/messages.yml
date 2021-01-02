@@ -1,0 +1,26 @@
+auth-session:
+  login:
+    title: '&3Войдите'
+    subtitle: '&3Введите пароль в чат'
+    wrong-password: '&cНеверный пароль!'
+  register:
+    title: '&3Зарегистрируйтесь!'
+    subtitle: '&3Введите в чат желаемый пароль'
+  2fa:
+    title: '&3Пройдите 2fa'
+    subtitle: 'Введите код, который отправил вам бот.'
+    wrong-code: '&cНеверный код!'
+commands:
+  changepassword:
+    wrong-old-password: '&cОшибка! Старый Пароль неверен!'
+    success:  '&aПароль успешно изменён.'
+vkbot:
+  code-send:
+    player-not-exists: 'Ошибка! Игрока с таким ником нету на сервере!'
+    bot: 'Введите код, который был отправлен в чат.'
+    server: 'Ваш код: %code%'
+  hook-success: 'Аккаунт успешно привязан.'
+  verification: 'Ваш код: %code%'
+password:
+  too-short-password: '&cПароль слишком короткий! Минимальная длина - 5 символов.'
+  too-long-password: '&cПароль слишком длинный! (0_0) Максимальная длина - 16 символов.'

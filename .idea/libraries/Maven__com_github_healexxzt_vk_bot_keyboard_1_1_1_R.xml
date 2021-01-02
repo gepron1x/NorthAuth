@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.healexxzt:vk-bot-keyboard:1.1.1-R">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/healexxzt/vk-bot-keyboard/1.1.1-R/vk-bot-keyboard-1.1.1-R.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/healexxzt/vk-bot-keyboard/1.1.1-R/vk-bot-keyboard-1.1.1-R-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/healexxzt/vk-bot-keyboard/1.1.1-R/vk-bot-keyboard-1.1.1-R-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

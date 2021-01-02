@@ -1,0 +1,17 @@
+session-length: 20
+hash: SHA256
+password:
+  min-length: 5
+  max-length: 16
+mysql:
+  host: 172.18.0.1:3306
+  user: u1_KZbc90UaZY
+  database: s1_auth
+  password: 'x=PZL@yauqV3F@LSfnHKGHZp'
+vkbot:
+  enabled: true
+  group-id: 198574555
+  access-token: '540adf1a0b3f4d4b49739150800c92e8bdc5c48ef0c963acf6a8b7b07220b6dc0a96161e788ae26344bde'
+servers:
+  hub: lobby
+  auth: auth
